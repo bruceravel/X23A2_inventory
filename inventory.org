@@ -1,0 +1,24 @@
+
+* Inventory
+
+** Big white crate
+
+ + Pfeiffer portable turbo pump [[file:photos/2014-10-07 09.56.20.jpg][(photo)]]
+ + X-rail and lab jacks [[file:photos/2014-10-07 09.57.30.jpg][(photo)]]
+ + translation stages, used at X23A2 as, left to right: SHT-z, HOS-z, SHT-x, SHT-y [[file:photos/2014-10-07 09.58.11.jpg][(photo)]]
+ + harmonic rejection mirror, box and optic in carrying case [[file:photos/2014-10-07 09.58.46.jpg][(photo)]]
+ + ion chmabers from hutch, I0, I00, It, Ir (forground) [[file:photos/2014-10-07 09.59.22.jpg][(photo)]]
+ + slit assembly, mounting plate for sample translation stages [[file:photos/2014-10-07 09.59.41.jpg][(photo)]]
+ + rotation stage, HOS-rot [[file:photos/2014-10-07 09.59.58.jpg][(photo)]]
+ + cameras, Axis hutch webcam + communications module, Sony BW camera + mounting rod [[file:photos/2014-10-07 10.00.42.jpg][(photo)]]
+ + Box BMM 1  [[file:photos/2014-10-07 10.25.20.jpg][(photo)]]
+   - optical mounts
+   - pointer
+   - sony cam, web cam
+   - fan
+   - vacuum fixture for top of portable turbo pump
+   - bracket for mounting HOS-rot
+ + Stand used for 4-element Vortex, disassembled with odd sized bolts taped to upright [[file:photos/2014-10-07 10.38.01.jpg][(photo)]]
+ + 3 working Keithlety 428 amplifiers [[file:photos/2014-10-07 10.44.06.jpg][(photo)]]
+ + Moxa DA-662 [[file:photos/2014-10-07 10.48.20.jpg][(photo)]]
+ + Various rotation stages [[file:photos/2014-10-07 11.03.04.jpg][(photo)]]
