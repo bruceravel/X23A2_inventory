@@ -26,15 +26,32 @@
 * Parker Zeta driver    LS 000 007 877
 * Parker Zeta driver    LS 000 007 878
 * Parker Zeta driver    LS 000 007 879
+* Parker Zeta driver    LS 000 029 080
+
+* Canberra MCA          LS 000 006 539
 
 * Breadboard            LS 000 007 886
 
 * Power strip           LS 000 007 860
 * Power strip           LS 000 007 861
+* Power strip           LS 000 007 874
+* Power strip           LS 000 007 875
 
 * Piezo power supply    LS 000 006 557
 
 * Ortec SHV supply      LS 000 007 872
+
+* PXI crate             LS 000 006 540
+* V2F converters        LS 000 006 541
+* V2F converters        LS 000 006 542
+* NIM bin               LS 000 006 556
+* Lock-in amplifier     LS 000 006 556
+* NIM bin               LS 000 007 671
+* Ortec SHV supply      LS 000 007 873
+
+* Vacuum guage          LS 000 007 870
+
+
 
 # EEI Barcoded items being discarded
 

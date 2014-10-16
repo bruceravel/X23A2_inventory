@@ -53,3 +53,43 @@
    - Regulator for He tank
  + Power supply for piezo motor [[file:photos/2014-10-09 16.36.54.jpg][(photo)]]
  + SHV voltage source (non-functional) [[file:photos/2014-10-09 16.37.15.jpg][(photo)]]
+ + 1 USB keyboard
+ + Miscellaneous fasteners
+ + Set of imperial hex drivers
+ + 2 small bubble levels
+ + Small bag of misc. Allen keys
+ + Small bag of misc. optical components
+
+* Palette
+
+ + Box of mono supplies with FMBO tape
+ + Box for returning 4-element Vortex
+ + Largish electronics [[file:photos/2014-10-16 15.12.16.jpg][(photo)]]
+   - Printer
+   - Oscilloscope from mono feedback system
+   - Uninteruptable power supply
+ + Canberra MCA [[file:photos/2014-10-16 15.28.21.jpg][(photo)]]
+ + BMM Box 5
+   - video switch [[file:photos/2014-10-10%2013.42.12][(photo)]]
+   - spinners [[file:photos/2014-10-10 13.41.47.jpg][(photo)]]
+   - bags of SHV and BNC connectos [[file:photos/2014-10-10 13.42.34.jpg][(photo)]]
+   - safety glasses
+   - more BNC cables
+   - foils and Ti standards
+   - old PXI card
+   - Genie disks
+   - C clamps
+   - Beamline vacuum guage
+   - old yellow needle valve from beam pipe
+ + BMM Box 6
+   - equipment manuals
+   - sample mounting brackets
+   - foil collection from hutch
+   - small C clamps
+   - power trip
+ + BMM box 7
+   - Vibration stage controller
+   - cabling for vibration stage controller
+   - flange for vibration stage cabling
+   - poly tubing with quick connects
+   - Parker Zeta drive
