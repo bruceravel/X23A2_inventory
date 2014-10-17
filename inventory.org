@@ -76,7 +76,7 @@
  + BMM Box 5
    - video switch [[photos/2014-10-10%2013.42.12][-photo-]]
    - spinners [[photos/2014-10-10 13.41.47.jpg][-photo-]]
-   - bags of SHV and BNC connectos [[photos/2014-10-10 13.42.34.jpg][-photo-]]
+   - bags of SHV and BNC connectors [[photos/2014-10-10 13.42.34.jpg][-photo-]]
    - safety glasses
    - more BNC cables
    - foils and Ti standards
@@ -90,7 +90,7 @@
    - sample mounting brackets
    - foil collection from hutch
    - small C clamps
-   - power trip
+   - power strip
  + BMM box 7
    - Vibration stage controller
    - cabling for vibration stage controller
