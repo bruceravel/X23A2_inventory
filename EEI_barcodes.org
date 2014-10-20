@@ -4,48 +4,52 @@
 
 * EEI Barcoded items going to NSLS-II
 
-| Device             | EEI number     |        |
-|--------------------+----------------+--------|
-| Ion chamber        | LS 000 016 423 |        |
-| Ion chamber        | LS 000 016 424 |        |
-| Ion chamber        | LS 000 016 428 |        |
-| Ion chamber        | LS 000 016 429 |        |
-| Keithley 428       | LS 000 006 543 |        |
-| Keithley 428       | LS 000 006 545 |        |
-| Keithley 428       | LS 000 006 694 |        |
-| Pfeiffer ion pump  | LS 000 007 859 |        |
-| Parker Zeta driver | LS 000 021 600 |        |
-| Parker Zeta driver | LS 000 021 601 |        |
-| Parker Zeta driver | LS 000 006 548 |        |
-| Parker Zeta driver | LS 000 006 549 |        |
-| Parker Zeta driver | LS 000 006 550 |        |
-| Parker Zeta driver | LS 000 006 551 |        |
-| Parker Zeta driver | LS 000 006 552 |        |
-| Parker Zeta driver | LS 000 006 553 |        |
-| Parker Zeta driver | LS 000 006 554 |        |
-| Parker Zeta driver | LS 000 006 555 |        |
-| Parker Zeta driver | LS 000 007 876 |        |
-| Parker Zeta driver | LS 000 007 877 |        |
-| Parker Zeta driver | LS 000 007 878 |        |
-| Parker Zeta driver | LS 000 007 879 |        |
-| Parker Zeta driver | LS 000 029 080 |        |
-| Canberra MCA       | LS 000 006 539 |        |
-| Breadboard         | LS 000 007 886 |        |
-| Power strip        | LS 000 007 860 |        |
-| Power strip        | LS 000 007 861 |        |
-| Power strip        | LS 000 007 874 |        |
-| Power strip        | LS 000 007 875 |        |
-| Piezo power supply | LS 000 006 557 |        |
-| Ortec SHV supply   | LS 000 007 872 |        |
-| PXI crate          | LS 000 006 540 |        |
-| V2F converters     | LS 000 006 541 |        |
-| V2F converters     | LS 000 006 542 |        |
-| NIM bin            | LS 000 006 556 |        |
-| Lock-in amplifier  | LS 000 006 556 | wrong? |
-| NIM bin            | LS 000 007 671 |        |
-| Ortec SHV supply   | LS 000 007 873 |        |
-| Vacuum guage       | LS 000 007 870 |        |
-
+| Device             | EEI number     |
+|--------------------+----------------|
+| Ion chamber        | LS 000 016 423 |
+| Ion chamber        | LS 000 016 424 |
+| Ion chamber        | LS 000 016 428 |
+| Ion chamber        | LS 000 016 429 |
+| Keithley 428       | LS 000 006 543 |
+| Keithley 428       | LS 000 006 545 |
+| Keithley 428       | LS 000 006 694 |
+| Pfeiffer ion pump  | LS 000 007 859 |
+| Parker Zeta driver | LS 000 021 600 |
+| Parker Zeta driver | LS 000 021 601 |
+| Parker Zeta driver | LS 000 006 548 |
+| Parker Zeta driver | LS 000 006 549 |
+| Parker Zeta driver | LS 000 006 550 |
+| Parker Zeta driver | LS 000 006 551 |
+| Parker Zeta driver | LS 000 006 552 |
+| Parker Zeta driver | LS 000 006 553 |
+| Parker Zeta driver | LS 000 006 554 |
+| Parker Zeta driver | LS 000 006 555 |
+| Parker Zeta driver | LS 000 007 876 |
+| Parker Zeta driver | LS 000 007 877 |
+| Parker Zeta driver | LS 000 007 878 |
+| Parker Zeta driver | LS 000 007 879 |
+| Parker Zeta driver | LS 000 029 080 |
+| Canberra MCA       | LS 000 006 539 |
+| Breadboard         | LS 000 007 886 |
+| Power strip        | LS 000 007 860 |
+| Power strip        | LS 000 007 861 |
+| Power strip        | LS 000 007 874 |
+| Power strip        | LS 000 007 875 |
+| Piezo power supply | LS 000 006 557 |
+| Ortec SHV supply   | LS 000 007 872 |
+| PXI crate          | LS 000 006 540 |
+| V2F converters     | LS 000 006 541 |
+| V2F converters     | LS 000 006 542 |
+| NIM bin            | LS 000 006 556 |
+| Lock-in amplifier  | LS 000 006 558 |
+| NIM bin            | LS 000 007 671 |
+| Ortec SHV supply   | LS 000 007 873 |
+| Vacuum guage       | LS 000 007 870 |
+| Avocet KVM switch  | LS 000 029 062 |
+| UDT amplifier      | LS 000 022 790 |
+| Ion chamber        | LS 000 016 425 |
+| Ion chamber        | LS 000 016 426 |
+| Ion chamber        | LS 000 016 427 |
 
 
 * EEI Barcoded items being discarded

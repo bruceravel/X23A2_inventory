@@ -68,6 +68,7 @@
 
  + Box of mono supplies with FMBO tape
  + Box for returning 4-element Vortex
+ + Box with Kr cylinder, bar code:
  + Largish electronics [[photos/2014-10-16 15.12.16.jpg][-photo-]]
    - Printer
    - Oscilloscope from mono feedback system
@@ -97,3 +98,67 @@
    - flange for vibration stage cabling
    - poly tubing with quick connects
    - Parker Zeta drive
+ + BMM Box 8
+   - Coffee maker
+   - Coffee grinder
+   - Printer toner cartridge
+   - He regulator
+   - Digital video cable, USB mouse
+ + BMM Box 9
+   - Box of glove bags
+   - 4 needle valve regulators
+   - magnetic mount lamp
+   - X-rail mounts
+   - Bag of SPEX sample cups
+   - Various cables: USB, SHV
+   - tubing: metal clad water, poly with quick connect
+   - picomotor rotation stage
+   - V2F module for NIM
+   - crufty displex mounting bracket
+ + BMM Box 10
+   - Displex vacuum shield
+   - syringe filter heads, 2 boxes
+   - Displex cold head repair kit
+   - glass tray
+   - Displex supply box
+   - Lytle electronics
+   - box of press-n-seal
+   - box of play-doh
+ + 2 rack mounting kits for server computers
+ + Ravel Box 1
+   - 2 small color video cameras
+   - 2 New Focus power supplies
+   - Various power and video cables
+   - Avocet KVM switch
+   - 4 boxes of M16 bolts
+   - UDT amplifier
+   - 2 port BNC switch
+   - roll of Al tape
+   - Poly tibing with quick connect
+   - mounting bracket for connecting SHT-rot to SHT-A
+   - various manuals
+ + BMM Box 11
+   - miscellaneous flanges and other parts for BMM mono
+   - heating wire for baking
+ + BMM Box 12
+   - spare (Si 111) crystals for BMM mono + mounting/cooling rig
+ + Ravel Box 2
+   - manual XYZ stage
+   - Sydor diamond detector
+   - 4 channel ion chambers + supplies
+   - Prosilica camera and power
+   - red laser and power
+   - optical filter set
+   - roll of awesome Japanese tape
+   - 4 rols of velcro strap
+   - hand tools: dental and screwdriver
+   - EXAFS evaluation kit
+ + Ravel Box 3
+   - box of plastic syringes
+   - styrofoam rack of flacon tubes
+   - various empty sample boxes
+   - optics hardware related to polycaps
+   - bloody severed hand (plastic)
+   - Ben Franklin action figure
+   - glass graduated cylinder
+ + Bruce's green toolbox (tools and sample making supplies)
