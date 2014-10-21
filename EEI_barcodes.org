@@ -51,6 +51,19 @@
 | Ion chamber        | LS 000 016 426 |
 | Ion chamber        | LS 000 016 427 |
 
+* Palette in the NIST cage
+
+| FMB MCS-8                               | LS 000 029 066 |
+| Pfeiffer turbo controller               | LS 000 028 517 |
+| Granville-Phillips ion guage controller | LS 000 029 061 |
+| Delta Tau power supply unit             | LS 000 029 425 |
+| Panel power strip                       | LS 000 020 438 |
+| 24 port Network switch                  | LS 000 029 059 |
+| Wiener IOC                              | LS 000 029 060 |
+| NIM bin                                 | LS 000 021 604 |
+| Gamma ion ump controller                | LS 000 029 067 |
+| Perkins Elmer ion pump controller       | LS 000 006 868 |
+
 
 * EEI Barcoded items being discarded
 
