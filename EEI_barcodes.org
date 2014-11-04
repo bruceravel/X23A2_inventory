@@ -55,7 +55,7 @@
 | ion chamber                      | LS 000 016 434 |
 | ion chamber                      | LS 000 016 435 |
 | Homemade motor driver            | LS 000 007 882 |
-
+| Displex compressor               | LS 000 020 437 |
 
 * Palette in the NIST cage
 
@@ -84,3 +84,10 @@
 | Temperature controller     | LS 000 007 891 |
 | Hamamatsu thingie          | LS 000 007 892 |
 | JRS vibration control unit | LS 000 006 538 |
+| Valve controller           | LS 000 007 868 |
+
+* BNL property at X23A2, out of service
+
+| pump controller         | LS 000 006 535 |
+| ion pump near front end | LS 000 007 867 |
+| proteus controller      | LS 000 007 858 |

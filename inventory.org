@@ -4,7 +4,7 @@
 
 * Inventory
 
-** Big white crate
+** BMM White Crate #1
 
  + Pfeiffer portable turbo pump [[photos/2014-10-07 09.56.20.jpg][-photo-]]
  + X-rail and lab jacks [[photos/2014-10-07 09.57.30.jpg][-photo-]]
@@ -65,15 +65,33 @@
  + Crufty stand for a displex
 
 ** Palette
-
  + Box of mono supplies with FMBO tape
  + Box for returning 4-element Vortex
+ + Canberra MCA [[photos/2014-10-16 15.28.21.jpg][-photo-]]
+ + Printer
+ + 2 rack mounting kits for server computers
  + Box with Kr cylinder, bar code:
+ + Ravel Box 2
+   - manual XYZ stage
+   - Sydor diamond detector
+   - 4 channel ion chambers + supplies
+   - Prosilica camera and power
+   - red laser and power
+   - optical filter set
+   - roll of awesome Japanese tape
+   - 4 rols of velcro strap
+   - hand tools: dental and screwdriver
+   - EXAFS evaluation kit
+ + BMM Box 12
+   - spare (Si 111) crystals for BMM mono + mounting/cooling rig
+ + Bruce's green toolbox (tools and sample making supplies)
+ + Green lid plastic bin with mono documents and supplies
+
+** BMM White Crate #2
+
  + Largish electronics [[photos/2014-10-16 15.12.16.jpg][-photo-]]
-   - Printer
    - Oscilloscope from mono feedback system
    - Uninteruptable power supply
- + Canberra MCA [[photos/2014-10-16 15.28.21.jpg][-photo-]]
  + BMM Box 5
    - video switch [[photos/2014-10-10%2013.42.12][-photo-]]
    - spinners [[photos/2014-10-10 13.41.47.jpg][-photo-]]
@@ -124,7 +142,6 @@
    - Lytle electronics
    - box of press-n-seal
    - box of play-doh
- + 2 rack mounting kits for server computers
  + Ravel Box 1
    - 2 small color video cameras
    - 2 New Focus power supplies
@@ -140,19 +157,6 @@
  + BMM Box 11
    - miscellaneous flanges and other parts for BMM mono
    - heating wire for baking
- + BMM Box 12
-   - spare (Si 111) crystals for BMM mono + mounting/cooling rig
- + Ravel Box 2
-   - manual XYZ stage
-   - Sydor diamond detector
-   - 4 channel ion chambers + supplies
-   - Prosilica camera and power
-   - red laser and power
-   - optical filter set
-   - roll of awesome Japanese tape
-   - 4 rols of velcro strap
-   - hand tools: dental and screwdriver
-   - EXAFS evaluation kit
  + Ravel Box 3
    - box of plastic syringes
    - styrofoam rack of flacon tubes
@@ -161,4 +165,40 @@
    - bloody severed hand (plastic)
    - Ben Franklin action figure
    - glass graduated cylinder
- + Bruce's green toolbox (tools and sample making supplies)
+ + BMM Box 13
+   - Displex supplies (low vibration displex)
+   - Lakeshore controller, cables, manual
+   - Tisch camera and power supply
+ + BMM Box 14
+   - rotation stage
+   - X rail mounts
+   - misc optics hardware
+   - poly quick connect hardware
+   - spinner fans
+   - small needle guage
+   - 2 pin diode detectors
+   - 8 inch Cu gaskets
+   - 6 inch Cu gaskets
+   - Lytle box (without slits or detector)
+ + BMM Box 15
+   - Cu gaskets, various sizes
+   - optical posts
+   - fan spinner
+   - needle valve and guage
+   - hand drill
+   - surge protected outlet strip
+   - 1 pin diode detector
+   - 2 old style ion chambers
+   - 1 UDT amplifier
+   - 2 gas cylinder mounts
+ + Roughing pump from X23A2 beampipe + Misc vacuum supplies
+ + Rack mount sliding monitor/keyboard
+ + Spare Displex He lines
+ + Steel clad water lines (in a big plastic ziploc)
+ + Vibration table from X23A2 mono
+ + Bucket o' misc cables
+ + Rolls of lead tape
+ + Yellow outlet box
+ + 2 Bicron scintillators
+ + Mono from X23A2 (museum piece!) + crystals
+ + 
