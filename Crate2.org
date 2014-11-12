@@ -6,6 +6,8 @@
 
 ** EEI numbers enclosed
 
+| Device                           | EEI number     |
+| --------------------------       | -------------- |
 | Parker Zeta driver               | LS 000 007 879 |
 | Parker Zeta driver               | LS 000 029 080 |
 | Power strip                      | LS 000 007 874 |

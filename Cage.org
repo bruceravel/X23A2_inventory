@@ -2,10 +2,12 @@
 #+AUTHOR: Bruce Ravel
 #+STARTUP: showall
 
-* BMM Rack
+* BMM equipment in the NIST cage
 
 ** EEI numbers enclosed
 
+| Device                                  | EEI number     |
+| --------------------------              | -------------- |
 | FMB MCS-8                               | LS 000 029 066 |
 | Pfeiffer turbo controller               | LS 000 028 517 |
 | Granville-Phillips ion guage controller | LS 000 029 061 |

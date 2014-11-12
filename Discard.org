@@ -6,6 +6,8 @@
 
 ** EEI Barcoded items being discarded
 
+| Device                     | EEI number     |
+| -------------------------- | -------------- |
 | Keithley 427               | LS 000 007 978 |
 | Keithley 428               | LS 000 006 544 |
 | Pressure guage             | LS 000 007 889 |
@@ -20,6 +22,8 @@
 
 ** BNL property at X23A2, out of service
 
-| pump controller         | LS 000 006 535 |
-| ion pump near front end | LS 000 007 867 |
-| proteus controller      | LS 000 007 858 |
+| Device                     | EEI number     |
+| -------------------------- | -------------- |
+| pump controller            | LS 000 006 535 |
+| ion pump near front end    | LS 000 007 867 |
+| proteus controller         | LS 000 007 858 |

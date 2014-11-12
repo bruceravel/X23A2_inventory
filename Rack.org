@@ -6,9 +6,11 @@
 
 ** EEI numbers enclosed
 
-| Ortec SHV supply  | LS 000 007 872 |
-| PXI crate         | LS 000 006 540 |
-| V2F converters    | LS 000 006 541 |
-| V2F converters    | LS 000 006 542 |
-| NIM bin           | LS 000 006 556 |
-| Lock-in amplifier | LS 000 006 558 |
+| Device                     | EEI number     |
+| -------------------------- | -------------- |
+| Ortec SHV supply           | LS 000 007 872 |
+| PXI crate                  | LS 000 006 540 |
+| V2F converters             | LS 000 006 541 |
+| V2F converters             | LS 000 006 542 |
+| NIM bin                    | LS 000 006 556 |
+| Lock-in amplifier          | LS 000 006 558 |

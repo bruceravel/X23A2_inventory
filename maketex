@@ -1,0 +1,15 @@
+#!/bin/bash
+
+file="Rack"
+if [ $1 ]; then
+    file=$1
+fi
+
+out="_"${file,,}
+
+pandocbin="/home/bruce/.cabal/bin/pandoc"
+
+$pandocbin --no-wrap -f org -t latex $file.org > $out.tex
+
+pdflatex -interaction=nonstopmode $file.tex
+pdflatex -interaction=nonstopmode $file.tex
