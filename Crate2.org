@@ -1,0 +1,138 @@
+#+TITLE: Traveler Inventory for X23A2
+#+AUTHOR: Bruce Ravel
+#+STARTUP: showall
+
+* BMM White Crate #2
+
+** EEI numbers enclosed
+
+| Parker Zeta driver               | LS 000 007 879 |
+| Parker Zeta driver               | LS 000 029 080 |
+| Power strip                      | LS 000 007 874 |
+| Power strip                      | LS 000 007 875 |
+| Vacuum guage                     | LS 000 007 870 |
+| Avocet KVM switch                | LS 000 029 062 |
+| UDT amplifier                    | LS 000 022 790 |
+| ion chamber                      | LS 000 016 434 |
+| ion chamber                      | LS 000 016 435 |
+| Ion chamber                      | LS 000 016 425 |
+| Ion chamber                      | LS 000 016 426 |
+| Ion chamber                      | LS 000 016 427 |
+| Lakeshore temperature controller | LS 000 020 077 |
+| Homemade motor driver            | LS 000 007 882 |
+
+** Inventory
+
+ + Largish electronics [[photos/2014-10-16 15.12.16.jpg][-photo-]]
+   - Oscilloscope from mono feedback system
+   - Uninteruptable power supply
+ + BMM Box 5
+   - video switch [[photos/2014-10-10%2013.42.12][-photo-]]
+   - spinners [[photos/2014-10-10 13.41.47.jpg][-photo-]]
+   - bags of SHV and BNC connectors [[photos/2014-10-10 13.42.34.jpg][-photo-]]
+   - safety glasses
+   - more BNC cables
+   - foils and Ti standards
+   - old PXI card
+   - Genie disks
+   - C clamps
+   - Beamline vacuum guage
+   - old yellow needle valve from beam pipe
+ + BMM Box 6
+   - equipment manuals
+   - sample mounting brackets
+   - foil collection from hutch
+   - small C clamps
+   - power strip
+ + BMM box 7
+   - Vibration stage controller
+   - cabling for vibration stage controller
+   - flange for vibration stage cabling
+   - poly tubing with quick connects
+   - Parker Zeta drive
+ + BMM Box 8
+   - Coffee maker
+   - Coffee grinder
+   - Printer toner cartridge
+   - He regulator
+   - Digital video cable, USB mouse
+ + BMM Box 9
+   - Box of glove bags
+   - 4 needle valve regulators
+   - magnetic mount lamp
+   - X-rail mounts
+   - Bag of SPEX sample cups
+   - Various cables: USB, SHV
+   - tubing: metal clad water, poly with quick connect
+   - picomotor rotation stage
+   - V2F module for NIM
+   - crufty displex mounting bracket
+ + BMM Box 10
+   - Displex vacuum shield
+   - syringe filter heads, 2 boxes
+   - Displex cold head repair kit
+   - glass tray
+   - Displex supply box
+   - Lytle electronics
+   - box of press-n-seal
+   - box of play-doh
+ + Ravel Box 1
+   - 2 small color video cameras
+   - 2 New Focus power supplies
+   - Various power and video cables
+   - Avocet KVM switch
+   - 4 boxes of M16 bolts
+   - UDT amplifier
+   - 2 port BNC switch
+   - roll of Al tape
+   - Poly tibing with quick connect
+   - mounting bracket for connecting SHT-rot to SHT-A
+   - various manuals
+ + BMM Box 11
+   - miscellaneous flanges and other parts for BMM mono
+   - heating wire for baking
+ + Ravel Box 3
+   - box of plastic syringes
+   - styrofoam rack of flacon tubes
+   - various empty sample boxes
+   - optics hardware related to polycaps
+   - bloody severed hand (plastic)
+   - Ben Franklin action figure
+   - glass graduated cylinder
+ + BMM Box 13
+   - Displex supplies (low vibration displex)
+   - Lakeshore controller, cables, manual
+   - Tisch camera and power supply
+ + BMM Box 14
+   - rotation stage
+   - X rail mounts
+   - misc optics hardware
+   - poly quick connect hardware
+   - spinner fans
+   - small needle guage
+   - 2 pin diode detectors
+   - 8 inch Cu gaskets
+   - 6 inch Cu gaskets
+   - Lytle box (without slits or detector)
+ + BMM Box 15
+   - Cu gaskets, various sizes
+   - optical posts
+   - fan spinner
+   - needle valve and guage
+   - hand drill
+   - surge protected outlet strip
+   - 1 pin diode detector
+   - 2 old style ion chambers
+   - 1 UDT amplifier
+   - 2 gas cylinder mounts
+ + Roughing pump from X23A2 beampipe + Misc vacuum supplies
+ + Rack mount sliding monitor/keyboard
+ + Spare Displex He lines
+ + Steel clad water lines (in a big plastic ziploc)
+ + Vibration table from X23A2 mono
+ + Bucket o' misc cables
+ + Rolls of lead tape
+ + Yellow outlet box
+ + 2 Bicron scintillators
+ + Mono from X23A2 (museum piece!) + crystals
+ + 

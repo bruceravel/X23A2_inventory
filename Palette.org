@@ -1,0 +1,34 @@
+#+TITLE: Traveler Inventories for X23A2
+#+AUTHOR: Bruce Ravel
+#+STARTUP: showall
+
+* BMM Palette
+
+** EEI numbers enclosed
+
+| Canberra MCA  | LS 000 006 539 |
+| UDT amplifier | LS 000 020 176 |
+
+** Inventory
+
+ + Box of mono supplies with FMBO tape
+ + Box for returning 4-element Vortex
+ + Canberra MCA [[photos/2014-10-16 15.28.21.jpg][-photo-]]
+ + Printer
+ + 2 rack mounting kits for server computers
+ + Box with Kr cylinder, bar code:
+ + Ravel Box 2
+   - manual XYZ stage
+   - Sydor diamond detector
+   - 4 channel ion chambers + supplies
+   - Prosilica camera and power
+   - red laser and power
+   - optical filter set
+   - roll of awesome Japanese tape
+   - 4 rols of velcro strap
+   - hand tools: dental and screwdriver
+   - EXAFS evaluation kit
+ + BMM Box 12
+   - spare (Si 111) crystals for BMM mono + mounting/cooling rig
+ + Bruce's green toolbox (tools and sample making supplies)
+ + Green lid plastic bin with mono documents and supplies

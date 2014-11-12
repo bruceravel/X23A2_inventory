@@ -1,0 +1,93 @@
+#+TITLE: Traveler Inventory for X23A2
+#+AUTHOR: Bruce Ravel
+#+STARTUP: showall
+
+* BMM White Crate #1
+
+** EEI numbers enclosed
+
+| Ion chamber        | LS 000 016 423 |
+| Ion chamber        | LS 000 016 424 |
+| Ion chamber        | LS 000 016 428 |
+| Ion chamber        | LS 000 016 429 |
+| Keithley 428       | LS 000 006 543 |
+| Keithley 428       | LS 000 006 545 |
+| Keithley 428       | LS 000 006 694 |
+| Pfeiffer ion pump  | LS 000 007 859 |
+| Parker Zeta driver | LS 000 021 600 |
+| Parker Zeta driver | LS 000 021 601 |
+| Parker Zeta driver | LS 000 006 548 |
+| Parker Zeta driver | LS 000 006 549 |
+| Parker Zeta driver | LS 000 006 550 |
+| Parker Zeta driver | LS 000 006 551 |
+| Parker Zeta driver | LS 000 006 552 |
+| Parker Zeta driver | LS 000 006 553 |
+| Parker Zeta driver | LS 000 006 554 |
+| Parker Zeta driver | LS 000 006 555 |
+| Parker Zeta driver | LS 000 007 876 |
+| Parker Zeta driver | LS 000 007 877 |
+| Breadboard         | LS 000 007 886 |
+| Power strip        | LS 000 007 860 |
+| Power strip        | LS 000 007 861 |
+| Piezo power supply | LS 000 006 557 |
+| Ortec SHV supply   | LS 000 007 873 |
+
+** Inventory
+
+ + Pfeiffer portable turbo pump [[photos/2014-10-07 09.56.20.jpg][-photo-]]
+ + X-rail and lab jacks [[photos/2014-10-07 09.57.30.jpg][-photo-]]
+ + translation stages, used at X23A2 as, left to right: SHT-z, HOS-z, SHT-x, SHT-y [[photos/2014-10-07 09.58.11.jpg][-photo-]]
+ + harmonic rejection mirror, box and optic in carrying case [[photos/2014-10-07 09.58.46.jpg][-photo-]]
+ + ion chambers from hutch, I0, I00, It, Ir (forground) [[photos/2014-10-07 09.59.22.jpg][-photo-]]  + 3 more (1 short, 1 long, 1 small)
+ + slit assembly, mounting plate for sample translation stages [[photos/2014-10-07 09.59.41.jpg][-photo-]]
+ + rotation stage, HOS-rot [[photos/2014-10-07 09.59.58.jpg][-photo-]]
+ + cameras, Axis hutch webcam + communications module, Sony BW camera + mounting rod [[photos/2014-10-07 10.00.42.jpg][-photo-]]
+ + Box BMM 1  [[photos/2014-10-07 10.25.20.jpg][-photo-]]
+   - optical mounts
+   - pointer
+   - sony cam, web cam
+   - fan
+   - vacuum fixture for top of portable turbo pump
+   - bracket for mounting HOS-rot
+ + Stand used for 4-element Vortex, disassembled with odd sized bolts taped to upright [[photos/2014-10-07 10.38.01.jpg][-photo-]]
+ + Stand used for 1-element Vortex, disassembled with odd sized bolts taped to upright [[photos/2014-10-07 11.26.26.jpg][-photo-]]
+ + 3 working Keithlety 428 amplifiers [[photos/2014-10-07 10.44.06.jpg][-photo-]]
+ + Moxa DA-662 [[photos/2014-10-07 10.48.20.jpg][-photo-]]
+ + Various tilt and rotation stages [[photos/2014-10-07 11.03.04.jpg][-photo-]]
+ + BMM Box 2
+   - Burn paper
+   - Misc. cables, including Lemo
+   - Gas regulators [[photos/2014-10-08 10.57.59.jpg][-photo-]]
+ + BMM Box 3, all kinds of cables
+   - optical
+   - SHV
+   - various BNC
+   - GPIB
+   - cat5, cat5-to-serial
+ + Needle valves [[photos/2014-10-08 10.57.59.jpg][-photo-]]
+ + Wooden box with Lytle detector [[photos/2014-10-07 11.22.18.jpg][-photo-]]
+ + Screen used for camera display [[photos/2014-10-07 14.51.36.jpg][-photo-]]
+ + 12 Parker Zeta drivers [[photos/2014-10-09 13.44.53.jpg][-photo-]]
+ + 2 mounting panels for Parker drivers [[photos/2014-10-09 16.06.25.jpg][-photo-]]
+ + 2 power strips from driver rack [[photos/2014-10-09 16.09.38.jpg][-photo-]]
+ + 2 CompuMotor 6K controllers + power supplies [[photos/2014-10-09 16.14.50.jpg][-photo-]]
+ + 12+ 25 to 15 dsub cables for Parker electronics [[photos/2014-10-09 16.23.07.jpg][-photo-]]
+ + Wooden box with fluorescence filters [[photos/2014-10-09 13.33.56.jpg][-photo-]]
+ + Gas patch panel [[photos/2014-10-09 13.29.05.jpg][-photo-]]
+ + BMM Box 4
+   - Impedence correction dongles for PXI crates [[photos/2014-10-08 12.04.24.jpg][-photo-]]
+   - Triax cables [[photos/2014-10-09 13.32.37.jpg][-photo-]]
+   - GPIB to USB dongle from National Instruments [[photos/2014-10-09 13.31.33.jpg][-photo-]]
+   - 2 Parker Zeta drives [[photos/2014-10-09 13.27.13.jpg][-photo-]]
+   - Breadboard for spinners
+   - Misc short BNC cables
+   - Regulator for He tank
+ + Power supply for piezo motor [[photos/2014-10-09 16.36.54.jpg][-photo-]]
+ + SHV voltage source (non-functional) [[photos/2014-10-09 16.37.15.jpg][-photo-]]
+ + 1 USB keyboard
+ + Miscellaneous fasteners
+ + Set of imperial hex drivers
+ + 2 small bubble levels
+ + Small bag of misc. Allen keys
+ + Small bag of misc. optical components
+ + Crufty stand for a displex

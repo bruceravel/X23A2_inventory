@@ -1,0 +1,25 @@
+#+TITLE: Traveler Inventory for X23A2
+#+AUTHOR: Bruce Ravel
+#+STARTUP: showall
+
+* Items being discarded
+
+** EEI Barcoded items being discarded
+
+| Keithley 427               | LS 000 007 978 |
+| Keithley 428               | LS 000 006 544 |
+| Pressure guage             | LS 000 007 889 |
+| Compumotor driver          | LS 000 007 883 |
+| Compumotor driver          | LS 000 007 884 |
+| Keithley 642 electrometer  | LS 000 007 894 |
+| Temperature controller     | LS 000 007 891 |
+| Hamamatsu thingie          | LS 000 007 892 |
+| JRS vibration control unit | LS 000 006 538 |
+| Valve controller           | LS 000 007 868 |
+
+
+** BNL property at X23A2, out of service
+
+| pump controller         | LS 000 006 535 |
+| ion pump near front end | LS 000 007 867 |
+| proteus controller      | LS 000 007 858 |
