@@ -7,7 +7,7 @@
 ** EEI numbers enclosed
 
 | Device                     | EEI number     |
-| -------------------------- | -------------- |
+|----------------------------+----------------|
 | Ion chamber                | LS 000 016 423 |
 | Ion chamber                | LS 000 016 424 |
 | Ion chamber                | LS 000 016 428 |
