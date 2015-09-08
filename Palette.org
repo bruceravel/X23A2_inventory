@@ -6,10 +6,10 @@
 
 ** EEI numbers enclosed
 
-| Device                     | EEI number     |
-| -------------------------- | -------------- |
-| Canberra MCA               | LS 000 006 539 |
-| UDT amplifier              | LS 000 020 176 |
+| Device        | EEI number     |
+|---------------+----------------|
+| Canberra MCA  | LS 000 006 539 |
+| UDT amplifier | LS 000 020 176 |
 
 ** Inventory
 
